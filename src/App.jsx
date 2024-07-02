@@ -12,7 +12,7 @@ function App() {
   const locomotiveScroll = new LocomotiveScroll();
 
   return (
-    <div className='w-full h-full bg-black font-["satoshi"] text-white'>
+    <div className='w-full h-full bg-black text-white'>
       <Navbar />
       <Work />
       <Stripes />
